@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyWalker", "DependencyWalker\DependencyWalker.csproj", "{F1DFF223-5178-421F-9D69-40F43CEF164E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB39110-678C-47FD-B2F7-63A059B1F211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB39110-678C-47FD-B2F7-63A059B1F211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB39110-678C-47FD-B2F7-63A059B1F211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB39110-678C-47FD-B2F7-63A059B1F211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61437F0E-ABEB-4956-BAE2-B24598036CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61437F0E-ABEB-4956-BAE2-B24598036CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61437F0E-ABEB-4956-BAE2-B24598036CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61437F0E-ABEB-4956-BAE2-B24598036CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687EB375-D2E5-4C32-BEE1-1E7201905A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687EB375-D2E5-4C32-BEE1-1E7201905A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687EB375-D2E5-4C32-BEE1-1E7201905A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687EB375-D2E5-4C32-BEE1-1E7201905A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DFF223-5178-421F-9D69-40F43CEF164E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DFF223-5178-421F-9D69-40F43CEF164E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DFF223-5178-421F-9D69-40F43CEF164E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DFF223-5178-421F-9D69-40F43CEF164E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
